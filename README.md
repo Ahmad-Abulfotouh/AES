@@ -5,12 +5,14 @@ implementation to the Advanced Encryption Standard (AES) using C++
 The code is a rewrite of the missing code annotated in a playlist located in a channel called Creel https://www.youtube.com/c/WhatsACreel
 
 # Development
-```bash
+1.```bash
 git clone https://github.com/Ahmad-Abulfotouh/AES/
 ```
 if you are on linux/mac go to the file directory then type
-```bash
+2.```bash
 g++ aes.cpp
+```
+3.```bash
 ./a.out
 ```
-or you can just copy the code and past it in an IDE and run it.
+Otherwise, you can download gcc or just use a c++ IDE to run it.
