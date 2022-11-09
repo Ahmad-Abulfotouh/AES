@@ -17,5 +17,5 @@ g++ aes.cpp
 ```bash
 ./a.out
 ```
-Otherwise, you can download gcc in your computer, or just open it using a c++ IDE.
+Otherwise, you can download gcc in your computer, or just open it using a C++ IDE.
 
